@@ -7,6 +7,7 @@ This tool was developed to simplify the process of performing brute-force attack
 Additionally, I’ve added two input fields that allow the user to set minimum and maximum delays between requests. This feature helps avoid detection by Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS), Web Application Firewalls (WAF), or any other firewalls that might identify patterns commonly associated with brute-force attacks.
 
 Features:
+
 Automated OTP submissions: Automatically submits OTP attempts until authentication is successful.
 
 Customizable delays: Allows setting minimum and maximum delay times between requests to avoid triggering security measures like IDS/IPS and WAF.
