@@ -8,7 +8,9 @@ Additionally, I’ve added two input fields that allow the user to set minimum a
 
 Features:
 Automated OTP submissions: Automatically submits OTP attempts until authentication is successful.
+
 Customizable delays: Allows setting minimum and maximum delay times between requests to avoid triggering security measures like IDS/IPS and WAF.
+
 Simple configuration: Just provide the login URL, OTP submission URL, dashboard URL, user credentials, OTP, and minimum and maximum delay between each request, and the script does the rest.
 
 Note: This tool is intended for educational purposes only and should not be used on any systems without explicit permission. Unauthorized access to computer systems is illegal and unethical.
